@@ -1,0 +1,7 @@
+# Capturas de red y reportes: contienen datos de mi red y de mi PC. No se suben.
+*.pcap
+*.pcapng
+20*/
+Reporte_Espacio_*/
+limpieza_*.txt
+*.iso
