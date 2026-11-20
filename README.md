@@ -13,6 +13,7 @@ Este repositorio reúne los laboratorios prácticos que armé en mi propia PC, d
 | 03 | [Instalación y reparación de WSL 2](03-wsl-solucion-de-problemas/) | Windows, WSL 2, PowerShell | Diagnóstico y solución de problemas |
 | 04 | [Análisis de red con Wireshark](04-analisis-de-red-wireshark/) | Wireshark, TShark, PowerShell | TCP/IP, DNS, HTTP vs. HTTPS, automatización |
 | 05 | [Reporte de uso de disco](05-reporte-de-disco-powershell/) | PowerShell | Scripting, mantenimiento de sistemas |
+| 06 | [Matrioska: guía interactiva de VMs](06-matrioska-guia-vm/) | HTML, CSS, JavaScript, SVG | Desarrollo frontend, interactividad, diseño responsive |
 
 ## Habilidades
 
@@ -20,7 +21,7 @@ Este repositorio reúne los laboratorios prácticos que armé en mi propia PC, d
 - **Virtualización:** VirtualBox, redes NAT y reenvío de puertos; hipervisores tipo 1 y tipo 2
 - **Linux:** Ubuntu, apt, sudo, systemctl, SSH
 - **Redes:** TCP/IP, IPv4/IPv6, DNS, HTTP/HTTPS, TLS, QUIC, captura y análisis de tráfico
-- **Web:** HTML, CSS, nginx; frontend, backend y bases de datos (SQL y NoSQL)
+- **Web:** HTML, CSS, JavaScript, SVG, nginx; frontend, backend y bases de datos (SQL y NoSQL)
 - **Windows:** PowerShell, WSL 2, diagnóstico y mantenimiento
 - **Hardware:** armado de PC, formateo y reinstalación de sistemas, drivers y periféricos
 
